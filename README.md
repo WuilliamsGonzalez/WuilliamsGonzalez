@@ -1,12 +1,12 @@
 <div align="center">
 <h1 align="center">Hola, soy Wuilliams González</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/5ZUwJN5.png">
+<img src="https://i.imgur.com/d5P2Czh.jpeg">
 ## Sobre mi
 
 Bienvenido a mi perfil de GitHub, actualmente soy estudiante y apasionado por la ciberseguridad y la programación, tengo conocimientos en backend y creación de páginas web utilizando tecnologías como HTML, CSS y JavaScript. También estoy enfocado en mejorar continuamente mis habilidades en seguridad informática.
 
-## Sobre mí
+## Sobre 
 
 - 🌍 Soy de Chile
 - 🎓 Estudiante de informática, especializado en ciberseguridad.
