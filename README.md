@@ -3,9 +3,9 @@
 </div>
 <img src="https://i.imgur.com/d5P2Czh.jpeg">
 
-## Bienvenido(A)
+## Bienvenido(a)
 
-Bienvenido a mi perfil de GitHub, actualmente soy estudiante y apasionado por la ciberseguridad y la programación, tengo conocimientos en backend y creación de páginas web utilizando tecnologías como HTML, CSS y JavaScript. También estoy enfocado en mejorar continuamente mis habilidades en seguridad informática.
+Bienvenido(a) a mi perfil de GitHub, actualmente soy estudiante y apasionado por la ciberseguridad y la programación, tengo conocimientos en backend y creación de páginas web utilizando tecnologías como HTML, CSS y JavaScript. También estoy enfocado en mejorar continuamente mis habilidades en seguridad informática.
 
 ## Sobre mí
 
