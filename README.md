@@ -16,7 +16,7 @@ Bienvenido(a) a mi perfil de GitHub, actualmente soy estudiante y apasionado por
 - 🛡️ Certificaciones en **Ciberseguridad**, **Gobierno y gestión de la seguridad de la información**, y más.
 - 🔧 Me encanta la tecnología y estoy siempre aprendiendo nuevas técnicas.
 - 📫 Puedes contactarme en: **wuilliams.work@outlook.com**.
-- 📫 Puedes seguirme en Linkedin pinchando el ícono <a href="https://www.linkedin.com/in/brunofernandezellerbach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin de Bruno Dario Fernandez Ellerbach" height="20" width="30" /></a>
+- 📫 Puedes seguirme en Linkedin pinchando el ícono <a href="https://www.linkedin.com/in/wuilliams-gonz%C3%A1lez-53050b160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="30" /></a>
 </p>
 
 ## Lo que encontrarás aquí
