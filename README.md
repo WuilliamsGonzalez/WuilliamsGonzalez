@@ -34,6 +34,6 @@ Bienvenido(a) a mi perfil de GitHub, soy estudiante de informática con mención
 </a>
 </p>
 <img src="https://i.imgur.com/6TMez7g.png" width="300">
-<img src="[https://i.imgur.com/6TMez7g.png](https://i.imgur.com/xoozRCw.png)" width="300">
-<img src="[https://i.imgur.com/6TMez7g.png](https://i.imgur.com/fWoq5oi.png)" width="300">
-<img src="[https://i.imgur.com/6TMez7g.png](https://i.imgur.com/fWoq5oi.png)" width="300">
+<img src="https://i.imgur.com/xoozRCw.png" width="300">
+<img src="https://i.imgur.com/fWoq5oi.png" width="300">
+<img src="https://i.imgur.com/Q7ITCpt.png" width="300">
