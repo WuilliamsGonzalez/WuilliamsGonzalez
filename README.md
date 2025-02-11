@@ -25,14 +25,6 @@ Bienvenido(a) a mi perfil de GitHub, soy estudiante de informática con mención
 - Aplicaciones web y backend
                                                                                     
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/WuilliamsGonzalez">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WuilliamsGonzalez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WuilliamsGonzalez&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 <p align="center">
   <img src="https://i.imgur.com/6TMez7g.png" width="200">
   <img src="https://i.imgur.com/xoozRCw.png" width="200">
@@ -42,4 +34,13 @@ Bienvenido(a) a mi perfil de GitHub, soy estudiante de informática con mención
   <img src="https://i.imgur.com/nQwOrwQ.png" width="200">
   <img src="https://i.imgur.com/E6RedxC.png" width="200">
   <img src="https://i.imgur.com/3Dh4nKK.png" width="200">
+</p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/WuilliamsGonzalez">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WuilliamsGonzalez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WuilliamsGonzalez&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
