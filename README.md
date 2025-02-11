@@ -24,6 +24,7 @@ Bienvenido(a) a mi perfil de GitHub, soy estudiante de informática con mención
 - Mis prácticas en ciberseguridad
 - Aplicaciones web y backend
                                                                                     
+## Badges
 
 <p align="center">
   <img src="https://i.imgur.com/6TMez7g.png" width="200">
