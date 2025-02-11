@@ -33,4 +33,10 @@ Bienvenido(a) a mi perfil de GitHub, soy estudiante de informática con mención
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WuilliamsGonzalez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<img src="https://i.imgur.com/6TMez7g.png" width="100"><img src="https://i.imgur.com/xoozRCw.png" width="100"><img src="https://i.imgur.com/fWoq5oi.png" width="100"><img src="https://i.imgur.com/Q7ITCpt.png" width="100">
+<p align="center">
+  <img src="https://i.imgur.com/6TMez7g.png" width="200">
+  <img src="https://i.imgur.com/xoozRCw.pn)" width="200">
+  <img src="https://i.imgur.com/fWoq5oi.png"  width="200">
+  <img src="https://i.imgur.com/Q7ITCpt.png" width="200">
+  <img src="https://i.imgur.com/k77yJqB.png" width="200">
+</p>
