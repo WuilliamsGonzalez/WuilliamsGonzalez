@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Wuilliams González</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/PT9uko3.jpeg">
+<img src="https://imgur.com/a/w8iCdaG">
 
 ## Bienvenido(a)
 
