@@ -5,7 +5,7 @@
 
 ## Bienvenido(a)
 
-Bienvenido(a) a mi perfil de GitHub, soy titulado de informática con mención en ciberseguridad, apasionado por la tecnología, la seguridad digital. He completado varias certificaciones en redes, ciberseguridad y programación, incluyendo cursos de Cisco, Alura Latam y otras plataformas especializadas. Actualmente, estoy construyendo mi portafolio con proyectos que abarcan desarrollo web, seguridad informática y administración de sistemas. Me encanta aprender y compartir conocimientos, así que si tienes algún proyecto interesante o una idea para colaborar, ¡contáctame!
+A mi perfil de GitHub, soy titulado de informática con mención en ciberseguridad, apasionado por la tecnología, la seguridad digital. He completado varias certificaciones en redes, ciberseguridad y programación, incluyendo cursos de Cisco, Alura Latam y otras plataformas especializadas. Actualmente, estoy construyendo mi portafolio con proyectos que abarcan desarrollo web, seguridad informática y administración de sistemas. Me encanta aprender y compartir conocimientos, así que si tienes algún proyecto interesante o una idea para colaborar, ¡contáctame!
 
 ## Sobre mí
 
